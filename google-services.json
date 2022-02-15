@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "490804574106",
+    "firebase_url": "https://bluebubblesapp-d6ac3-default-rtdb.firebaseio.com",
+    "project_id": "bluebubblesapp-d6ac3",
+    "storage_bucket": "bluebubblesapp-d6ac3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:490804574106:android:388e99962e5995f2466c23",
+        "android_client_info": {
+          "package_name": "com.cameron.bluebubbles"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "490804574106-msukpahk24btfodkedqsrpe3be20duce.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDt2eD-Q7YL0gXEqDnPDBfvYnhEUgkblCY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "490804574106-msukpahk24btfodkedqsrpe3be20duce.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
